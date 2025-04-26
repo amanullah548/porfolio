@@ -1,0 +1,48 @@
+@import url('index.css');
+
+.section-wrapper {
+  max-width: 1200px;
+  margin: 80px auto;
+  padding: 0 50px;
+}
+
+.about h2,
+.about h3 {
+  color: #00f7ff;
+  margin-bottom: 15px;
+}
+
+.about p {
+  color: #ccc;
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 30px;
+}
+
+.about ul {
+  list-style-type: square;
+  padding-left: 20px;
+  color: #ccc;
+  font-size: 18px;
+}
+
+.about ul li {
+  margin-bottom: 20px;
+  line-height: 1.5;
+}
+
+.contact h2 {
+    color: #00f7ff;
+    margin-bottom: 20px;
+  }
+  
+  .contact p {
+    font-size: 18px;
+    color: #ccc;
+    margin-bottom: 10px;
+  }
+  
+  .contact a {
+    color: #00f7ff;
+    text-decoration: none;
+  }

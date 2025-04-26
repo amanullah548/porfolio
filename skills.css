@@ -1,0 +1,39 @@
+@import url('index.css');
+
+/* Center all content using section-wrapper */
+.section-wrapper {
+  max-width: 1200px;
+  margin: 80px auto;
+  padding: 0 50px;
+}
+
+/* Section Title */
+.skills h2 {
+  color: #00f7ff;
+  margin-bottom: 30px;
+}
+
+/* Each Skill Block */
+.skill {
+  margin-bottom: 30px;
+}
+
+/* Skill Heading */
+.skill h3 {
+  color: #00f7ff;
+  margin-bottom: 10px;
+}
+
+/* Skill Points List */
+.skill ul {
+  list-style-type: disc;
+  padding-left: 25px;
+  color: #ccc;
+}
+
+/* Each Point */
+.skill ul li {
+  margin-bottom: 10px;
+  font-size: 16px;
+  line-height: 1.6;
+}

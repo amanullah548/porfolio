@@ -1,0 +1,48 @@
+@import url("./index.css");
+/* Wrapper layout */
+.section-wrapper {
+  max-width: 1200px;
+  margin: 80px auto;
+  padding: 0 50px;
+}
+
+/* Section heading */
+.projects h2 {
+  color: #00f7ff;
+  margin-bottom: 30px;
+}
+
+/* Individual project block */
+.project {
+  background-color: #121e2b;
+  padding: 20px;
+  border-left: 4px solid #00f7ff;
+  border-radius: 8px;
+  margin-bottom: 30px;
+}
+
+/* Project title */
+.project h3 {
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+/* Technologies paragraph */
+.project p {
+  font-size: 16px;
+  color: #ccc;
+  margin-bottom: 15px;
+}
+
+/* Bullet points */
+.project ul {
+  list-style: disc;
+  padding-left: 25px;
+  color: #ccc;
+}
+
+.project ul li {
+  margin-bottom: 10px;
+  line-height: 1.6;
+  font-size: 16px;
+}
